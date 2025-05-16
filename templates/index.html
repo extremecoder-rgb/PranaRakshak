@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indianapolis Public Safety WhatsApp Bot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .info-box {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .endpoint {
+            background-color: #e9ecef;
+            padding: 10px;
+            border-radius: 3px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Indianapolis Public Safety WhatsApp Bot</h1>
+    <div class="info-box">
+        <h2>About</h2>
+        <p>This is a WhatsApp chatbot designed to provide Indianapolis residents with public safety information and emergency updates.</p>
+    </div>
+    <div class="info-box">
+        <h2>API Endpoints</h2>
+        <div class="endpoint">
+            <strong>POST /bot</strong>
+            <p>Handles incoming WhatsApp messages via Twilio webhook</p>
+        </div>
+        <div class="endpoint">
+            <strong>GET /health</strong>
+            <p>Health check endpoint to verify service status</p>
+        </div>
+    </div>
+</body>
+</html>

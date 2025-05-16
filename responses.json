@@ -1,0 +1,17 @@
+{
+  "tornado warning": "ALERT: Tornado warning for Indianapolis area. Seek shelter immediately in a basement or interior room away from windows. Monitor local news and weather.gov for updates. Text your ZIP code for location-specific information.",
+  
+  "shelter": "Indianapolis emergency shelters: American Red Cross (317-684-1441), Wheeler Mission (317-635-3575), Salvation Army (317-937-7000). For the shelter nearest to you, text your location or call 211.",
+  
+  "power outage": "For power outages in Indianapolis: Report to AES Indiana at 317-261-8111 or online at aesindiana.com/outages. Keep refrigerators closed, use flashlights instead of candles, and check on vulnerable neighbors.",
+  
+  "evacuation": "Indianapolis evacuation information: Follow instructions from local authorities. Evacuation routes vary by neighborhood. For current evacuation zones, visit indy.gov/emergency or call 317-327-3752.",
+  
+  "heatwave": "Indianapolis heatwave safety: Stay hydrated, limit outdoor activity, use cooling centers at local libraries and community centers. For cooling center locations, call 211 or visit indy.gov/heat.",
+  
+  "emergency contact": "Indianapolis emergency contacts:\n- Emergency: 911\n- Non-emergency police: 317-327-3811\n- Fire Department: 317-327-6000\n- Poison Control: 800-222-1222\n- Marion County Health Dept: 317-221-2000",
+  
+  "flood": "Indianapolis flood safety: Move to higher ground, avoid walking or driving through flood waters. Report flooding to 317-327-4MAC. For emergency shelter, text your location.",
+  
+  "default": "I'm here to help with Indianapolis public safety information. Text your ZIP code anytime to get location-specific information. You can ask about tornado warnings, shelters, power outages, evacuation info, heatwave tips, or emergency contacts. For immediate emergencies, always call 911."
+}
