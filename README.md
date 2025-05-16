@@ -1,6 +1,6 @@
 # PranaRakshak - Indianapolis Public Safety WhatsApp Chatbot
 
-PranaRakshak is a WhatsApp-based chatbot designed to provide Indianapolis residents with instant access to critical public safety information, emergency alerts, and local resources. Using advanced natural language processing powered by Google's Gemini AI, Pepo delivers accurate, location-specific safety information 24/7.
+PranaRakshak is a WhatsApp-based chatbot designed to provide Indianapolis residents with instant access to critical public safety information, emergency alerts, and local resources. Using advanced natural language processing powered by Google's Gemini AI, PranaRakshak delivers accurate, location-specific safety information 24/7.
 
 ## Features
 
