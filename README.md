@@ -25,7 +25,7 @@ PranaRakshak is a WhatsApp-based chatbot designed to provide Indianapolis reside
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/pepo.git
-   cd pepo
+   cd PranaRakshak
    ```
 
 2. Create and activate a virtual environment:
