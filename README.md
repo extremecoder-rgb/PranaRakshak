@@ -2,6 +2,8 @@
 
 PranaRakshak is a WhatsApp-based chatbot designed to provide Indianapolis residents with instant access to critical public safety information, emergency alerts, and local resources. Using advanced natural language processing powered by Google's Gemini AI, PranaRakshak delivers accurate, location-specific safety information 24/7.
 
+[![Watch the demo](https://img.youtube.com/vi/_F1k9MnMIWw/hqdefault.jpg)](https://youtube.com/shorts/_F1k9MnMIWw)
+
 ## Features
 
 - **Real-time Emergency Information**: Get instant updates about tornado warnings, floods, power outages, and other emergencies
